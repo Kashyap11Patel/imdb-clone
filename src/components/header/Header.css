@@ -22,6 +22,10 @@ a > span:hover {
     color: red;
 }
 
+.movifyy:hover {
+    color: black;
+}
+
 .header__icon {
     width: 80px;
     cursor: pointer;
